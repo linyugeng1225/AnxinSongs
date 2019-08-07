@@ -32,7 +32,7 @@
         "name": "打靶归来",
         "singer": "王麒榕 周安信",
         "info": "周安信在北京卫视《音乐大师课》第三季与学妹王麒榕合唱",
-        "url": "https://github.com/linyugeng1225/AnxinSongs/raw/master/%E7%8E%8B%E9%BA%92%E6%A6%95%20%E5%91%A8%E5%AE%89%E4%BF%A1%20-%20%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp3"
+        "url": "https://raw.githubusercontent.com/linyugeng1225/AnxinSongs/master/%E7%8E%8B%E9%BA%92%E6%A6%95%20%E5%91%A8%E5%AE%89%E4%BF%A1%20-%20%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp3"
     },
     {
         "name": "等到山岗开满花",
