@@ -2,7 +2,7 @@
         "name": "天之大",
         "singer": "周安信",
         "info": "周安信在北京卫视《音乐大师课》演唱，感动全场，点击量破亿.",
-        "url": "https://github.com/linyugeng1225/AnxinSongs/raw/master/%E5%91%A8%E5%AE%89%E4%BF%A1%20-%20%E5%A4%A9%E4%B9%8B%E5%A4%A7.mp3"
+        "url": "https://raw.githubusercontent.com/linyugeng1225/AnxinSongs/master/%E5%91%A8%E5%AE%89%E4%BF%A1%20-%20%E5%A4%A9%E4%B9%8B%E5%A4%A7.mp3"
     },
     {
         "name": "小白船",
