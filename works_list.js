@@ -1,7 +1,7 @@
 [{
         "name": "天之大",
         "singer": "周安信",
-        "url": "https://raw.githubusercontent.com/linyugeng1225/AnxinSongs/master/%E5%91%A8%E5%AE%89%E4%BF%A1%20-%20%E5%A4%A9%E4%B9%8B%E5%A4%A7.mp3"
+        "url": "https://gitee.com/linyugeng1225/AnxinSongs/master/%E5%91%A8%E5%AE%89%E4%BF%A1%20-%20%E5%A4%A9%E4%B9%8B%E5%A4%A7.mp3"
     },
     {
         "name": "小白船",
